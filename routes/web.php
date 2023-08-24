@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\DashboardController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -33,3 +34,17 @@ Route::middleware([
         return Inertia::render('Dashboard');
     })->name('dashboard');
 });
+
+Route::get('/adit', function () {
+    return 'Hello World';
+});
+
+Route::get('/user', [DashboardController::class, 'index']);
+
+Route::get('/dashboard', [DashboardController::class, 'dashboard']);
+
+Route::get('/faq', [DashboardController::class, 'faq']);
+
+Route::get('/contact', [DashboardController::class, 'contact']);
+
+Route::get('/survania', [DashboardController::class, 'survania']);
