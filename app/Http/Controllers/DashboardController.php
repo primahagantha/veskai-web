@@ -17,17 +17,35 @@ class DashboardController extends Controller
     }
 
     public function faq(){
-        $data['tittle'] = "faq";
+        $data['tittle'] = "Faq";
         return view("veskai.faq",$data);
     }
 
     public function contact(){
-        $data['tittle'] = "contact";
+        $data['tittle'] = "Contact";
         return view("veskai.contact",$data);
     }
 
     public function survania(){
-        $data['tittle'] = "survania";
+        $data['tittle'] = "Survania";
         return view("veskai.survania",$data);
     }
+    public function unbandiscord(){
+        $data['tittle'] = "Unbanned";
+        return view("veskai.unban-discord",$data);
+    }
+
+    public function unbansurvania(){
+        $data['tittle'] = "Unbanned";
+        return view("veskai.unban-survania",$data);
+    }
+    public function login(){
+        $data['tittle'] = "Login";
+        return view("veskai.login",$data);
+    }
+    public function register(){
+        $data['tittle'] = "Register";
+        return view("veskai.register",$data);
+    }
+
 }

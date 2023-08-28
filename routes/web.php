@@ -48,3 +48,12 @@ Route::get('/faq', [DashboardController::class, 'faq']);
 Route::get('/contact', [DashboardController::class, 'contact']);
 
 Route::get('/survania', [DashboardController::class, 'survania']);
+
+Route::get('/unban-discord', [DashboardController::class, 'unbandiscord']);
+
+Route::get('/unban-survania', [DashboardController::class, 'unbansurvania']);
+
+Route::get('/register', [DashboardController::class, 'register']);
+
+Route::get('/login', [DashboardController::class, 'login']);
+

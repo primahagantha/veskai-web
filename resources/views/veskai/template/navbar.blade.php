@@ -9,37 +9,37 @@
         <h6 class="wellcome">welcome to<span>Veskai</span></h6>
     </div>
 </div>
-<a href="index.html#0" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+<a href="" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
 <div class="overlay"></div>
 <!-- ========Header Section Starts Here======== -->
 <header class="header-one">
         <div class="container">
             <div class="header-wrapper-2">
                 <div class="sticky-logo">
-                    <a href="index.html">
+                    <a href="">
                         <img src="assets/images/logo/vekai-logo.png" alt="logo">
                     </a>
                 </div>
                 <ul class="menu">
                     <li>
-                        <a href="{{url("/dashboard")}}">Beranda</a>
+                        <a href="{{url("/dashboard")}}">Home</a>
                     </li>
                     <li>
-                        <a href="index.html#0">Games</a>
+                        <a href="">Games</a>
                         <ul class="submenu">
                             <li>
                                 <a href="{{url("/survania")}}">Survania | Minecraft</a>
                             </li>
                             <li>
-                                <a href="error.html"><del>Aurora World | SA-MP</del></a>
+                                <a href=""><del>Aurora World | SA-MP</del></a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="index.html#0">Membership</a>
+                        <a href="">Membership</a>
                         <ul class="submenu">
                             <li>
-                                <a href="index.html#0">VIP Veskai Discord</a>
+                                <a href="">VIP Veskai Discord</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="https://trakteer.id/veskai">Trakteer</a>
@@ -59,16 +59,16 @@
                     </li>
                     <li class="d-none d-lg-block center-logo">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="">
                                 <img src="assets/images/logo/main-logo.png" alt="logo">
                             </a>
                         </div>
                     </li>
                     <li>
-                        <a href="index.html#0">Pages</a>
+                        <a href="">Pages</a>
                         <ul class="submenu">
                             <li>
-                                <a href="index.html#0">Forum</a>
+                                <a href="">Forum</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="https://discord.gg/XYqyZpg">Discord</a>
@@ -82,13 +82,13 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#0"><del>Media</del> Coming Soon</a>
+                                <a href=""><del>Media</del> Coming Soon</a>
                             </li>
                             <li>
-                                <a href="index.html#0"><del>Shop</del> Coming Soon</a>
+                                <a href=""><del>Shop</del> Coming Soon</a>
                             </li>
                             <li>
-                                <a href="index.html#0">Partners</a>
+                                <a href="">Partners</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="https://s.id/16PNE">Changer Discord Bot</a>
@@ -96,19 +96,16 @@
                                     <li>
                                         <a href="https://wa.me/6287810151440">Changer WhatsApp Bot</a>
                                     </li>
-                                    <li>
-                                        <a href="https://discord.gg/wWSNkkqtbw">Aurora UIF:SA-MP</a>
-                                    </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="index.html#0">Unban Appeal</a>
+                                <a href="">Unban Appeal</a>
                                 <ul class="submenu">
                                     <li>
-                                        <a href="">Discord</a>
+                                        <a href="{{url("/unban-discord")}}">Discord</a>
                                     </li>
                                     <li>
-                                        <a href="">Survania</a>
+                                        <a href="{{url("/unban-survania")}}">Survania</a>
                                     </li>
                                     <li>
                                         <a href=""><del>Aurora World</del></a>
@@ -122,27 +119,27 @@
                                 <a href="{{url("/faq")}}">Faqs</a>
                             </li>
                             <li>
-                                <a href="terms.html">Terms & Service</a>
+                                <a href="{{url("/faq")}}">Terms & Service</a>
                             </li>
 
                         </ul>
                     </li>
                     <li>
-                        <a href="index.html#0">Account</a>
+                        <a href="">Account</a>
                             <ul class="submenu">
                                 <li>
-                                    <a href="sign-up.html">Register</a>
+                                    <a href="{{url("/register")}}">Register</a>
                                 </li>
                                 <li>
-                                    <a href="sign-in.html">Login</a>
+                                    <a href="{{url("/login")}}">Login</a>
                                 </li>
                                 <li>
-                                    <a href="index.html#0"><del>Forgot Password</del> Soon</a>
+                                    <a href=""><del>Forgot Password</del> Soon</a>
                                 </li>
                             </ul>
                     </li>
                     <li>
-                        <a href="index.html#0">Community</a>
+                        <a href="">Community</a>
                             <ul class="submenu">
                                 <li>
                                     <a href="https://discord.gg/XYqyZpg">Veskai</a>

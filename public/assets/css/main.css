@@ -1363,7 +1363,7 @@ body *::-webkit-scrollbar-thumb {
 
 @media (min-width: 992px) {
     .trakteer {
-        margin-top: -50px;
+        margin-top: -10px;
         margin-left: 200px; /* Sesuaikan margin left sesuai kebutuhan */
         
     }
@@ -4927,6 +4927,18 @@ aside {
     flex-direction: column;
 }
 
+.account-login {
+    margin-top: -150px;
+}
+
+@media (max-width: 575px) {
+    .account-login {
+        width: 100%; /* Take up the full width of the viewport */
+        margin: 0; /* No need for margins on the sides */
+        padding: 0; /* Add some padding for spacing */
+    }
+}
+
 .account-wrapper .newslatter-area .title {
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -4941,6 +4953,13 @@ aside {
 
 .account-wrapper .account-area {
     width: calc(100% - 455px);
+    margin-left: 250px;
+}
+
+@media (max-width: 991px) { /* Gunakan media query untuk tampilan mobile */
+    .account-wrapper .account-area {
+        margin: 10%;
+    }
 }
 
 @media (max-width: 1199px) {
@@ -5016,7 +5035,7 @@ aside {
 
 .account-area {
     padding: 140px 60px;
-    background-color: rgba(7, 3, 64, 0.329);
+    background-color: rgba(7, 3, 64);
 }
 
 .account-area .title {
@@ -5122,6 +5141,69 @@ aside {
         opacity: 0;
     }
 }
+
+/*Blog Section Starts Here*/
+.post-item {
+    background: #09044d;
+    margin-bottom: 30px;
+}
+
+.post-item .post-content {
+    padding: 30px;
+}
+
+.post-item .post-content .title {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+@media (min-width: 576px) {
+    .post-item .post-content .title {
+        font-size: 20px;
+    }
+}
+
+.post-item .post-content .meta-post {
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.post-item .post-content .meta-post a {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.post-item .post-content .meta-post a:hover {
+    color: #02c4f2;
+}
+
+@media screen and (max-width: 400px) {
+    .post-item .post-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+.post-item:hover .post-thumb img {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.post-thumb {
+    overflow: hidden;
+}
+
+.post-thumb a {
+    display: block;
+}
+
+.post-thumb img {
+    width: 100%;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+
 
 /*Blog Section Starts Here*/
 .post-item {
@@ -6133,4 +6215,68 @@ form .custom-button {
 
 .bg-biru-veskai{
     background-color: #070340;
+}
+
+/* Style the form container */
+.form-container {
+    max-width: 400px;
+    margin: 50px auto;
+    margin-top: 80px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: #e74eac /*#870f59;*/
+    
+}
+
+/* Style form labels */
+.form-label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+/* Style form inputs and textareas */
+.form-input,
+.form-textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #870f59;
+    color: white;
+}
+
+/* Style submit button */
+.form-button {
+    background-color: white;
+    color: #870f59;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-button:hover {
+    background-color: #870f59;
+    color: white;
+}
+
+/* Media query untuk tampilan mobile */
+@media (max-width: 600px) {
+    .form-container {
+        max-width: 70%; /* Lebar form penuh pada tampilan mobile */
+        padding: 10px; /* Padding lebih kecil */
+        margin-top: 150px;
+        margin-bottom: 150px;
+    }
+
+    /* Atur ukuran teks lebih besar pada mobile */
+    .form-label,
+    .form-input,
+    .form-textarea,
+    .form-button {
+        font-size: 16px;
+    }
 }

@@ -15,10 +15,10 @@
                                 <a href="https://twitter.com/VeskaiID"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href="index.html#0"><i class="fab fa-linkedin-in"></i></a>
+                                <a href=""><i class="fab fa-linkedin-in"></i></a>
                             </li>
                             <li>
-                                <a href="index.html#0"><i class="fab fa-instagram"></i></a>
+                                <a href=""><i class="fab fa-instagram"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -50,9 +50,6 @@
                             <li>
                                 <a href="https://s.id/16PNE">Changer Discord Bot</a>
                             </li>
-                            <li>
-                                <a href="https://discord.gg/wWSNkkqtbw">Aurora UIF:SA-MP</a>
-                            </li>
                         </ul>
                     </div>
                     <div class="footer-widget widget-contact">
@@ -73,7 +70,7 @@
         </div>
     </div>
     <div class="footer-bottom">
-        <p>Copyright &copy; 2023. All rights reserved by <a href="index.html#0">Veskai Production</a></p>
+        <p>Copyright &copy; 2023. All rights reserved by <a href="">Veskai Production</a></p>
     </div>
 </footer>
 <!-- ========Footer Section Ends Here======== -->

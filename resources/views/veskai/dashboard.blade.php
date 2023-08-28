@@ -44,7 +44,7 @@
                                 <div class="feature-content banner-content">
                                     <h4 class="title">Aurora World</h4>
                                     <p>GTA San Andreas Multiplayer (SA-MP) Server with Freeroam Game Mode available soon</p>
-                                    <a href="index.html#0" class="custom-button theme"><del>Play</del></a>
+                                    <a href="" class="custom-button theme"><del>Play</del></a>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                                 <div class="feature-content banner-content">
                                     <h4 class="title">Coming Soon</h4>
                                     <p>GTA V Server (FIVE M)? haha idk. support us! will be available if you guys keep supporting us</p>
-                                    <a href="index.html#0" class="custom-button theme"><del>Play</del></a>
+                                    <a href="" class="custom-button theme"><del>Play</del></a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
 
 
 <!-- ========About Section Starts Here======== -->
-<section class="about-section bg-biru-veskai  padding-top">
+<section class="about-section bg-biru-veskai padding-top">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -96,8 +96,8 @@
                         <P>Server Indonesia yang membahas berbagai macam topic, mulai dari anime, game, film, art, otomotive, hardware, dan lain sebagainya, intinya kita nongkrong bareng.
                         <p>Selain itu kami saat ini sedang memperlebar sayap pada industri gaming community, khususnya menyediakan Game Server yang bisa dimainkan bersama oleh user kami.</p>
                         <p>Di server ini juga memiliki bot dan channel yang tertata rapi dengan fitur yang jarang ada di server lain.</p>
-                        Ajak teman kamu untuk meramaikan server! kita sangat welcome ke user discord lama maupun baru</p>
-                    <a href="https://discord.gg/XYqyZpg" class="banner-content theme custom-button mt-20">Join Now!</a>
+                        <p>Ajak teman kamu untuk meramaikan server! kita sangat welcome ke user discord lama maupun baru</p>
+                    <a href="https://discord.gg/XYqyZpg" class="custom-button mt-20">Join Now!</a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -182,78 +182,78 @@
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                     <div class="games-thumb">
-                        <a href="index.html#0"><img src="assets/images/games/games01.jpg" alt="game"></a>
+                        <a href=""><img src="assets/images/games/games01.jpg" alt="game"></a>
                     </div>
                     <div class="games-content">
-                        <h5 class="title"><a href="index.html#0">Viking</a></h5>
+                        <h5 class="title"><a href="">Viking</a></h5>
                         <p>Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu nibh pharetra orem
                             bibendum elit mauris odio </p>
-                        <a href="index.html#0" class="custom-button active">play now</a>
+                        <a href="" class="custom-button active">play now</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                     <div class="games-thumb">
-                        <a href="index.html#0"><img src="assets/images/games/games02.jpg" alt="game"></a>
+                        <a href=""><img src="assets/images/games/games02.jpg" alt="game"></a>
                     </div>
                     <div class="games-content">
-                        <h5 class="title"><a href="index.html#0">Pixel hunter</a></h5>
+                        <h5 class="title"><a href="">Pixel hunter</a></h5>
                         <p>Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu nibh pharetra orem
                             bibendum elit mauris odio </p>
-                        <a href="index.html#0" class="custom-button active">play now</a>
+                        <a href="" class="custom-button active">play now</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                     <div class="games-thumb">
-                        <a href="index.html#0"><img src="assets/images/games/games03.jpg" alt="game"></a>
+                        <a href=""><img src="assets/images/games/games03.jpg" alt="game"></a>
                     </div>
                     <div class="games-content">
-                        <h5 class="title"><a href="index.html#0">Combo car racing</a></h5>
+                        <h5 class="title"><a href="">Combo car racing</a></h5>
                         <p>Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu nibh pharetra orem
                             bibendum elit mauris odio </p>
-                        <a href="index.html#0" class="custom-button active">play now</a>
+                        <a href="" class="custom-button active">play now</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                     <div class="games-thumb">
-                        <a href="index.html#0"><img src="assets/images/games/games04.jpg" alt="game"></a>
+                        <a href=""><img src="assets/images/games/games04.jpg" alt="game"></a>
                     </div>
                     <div class="games-content">
-                        <h5 class="title"><a href="index.html#0">hit and kills</a></h5>
+                        <h5 class="title"><a href="">hit and kills</a></h5>
                         <p>Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu nibh pharetra orem
                             bibendum elit mauris odio </p>
-                        <a href="index.html#0" class="custom-button active">play now</a>
+                        <a href="" class="custom-button active">play now</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                     <div class="games-thumb">
-                        <a href="index.html#0"><img src="assets/images/games/games05.jpg" alt="game"></a>
+                        <a href=""><img src="assets/images/games/games05.jpg" alt="game"></a>
                     </div>
                     <div class="games-content">
-                        <h5 class="title"><a href="index.html#0">ready for jump</a></h5>
+                        <h5 class="title"><a href="">ready for jump</a></h5>
                         <p>Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu nibh pharetra orem
                             bibendum elit mauris odio </p>
-                        <a href="index.html#0" class="custom-button active">play now</a>
+                        <a href="" class="custom-button active">play now</a>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="games-item">
                     <div class="games-thumb">
-                        <a href="index.html#0"><img src="assets/images/games/games06.jpg" alt="game"></a>
+                        <a href=""><img src="assets/images/games/games06.jpg" alt="game"></a>
                     </div>
                     <div class="games-content">
-                        <h5 class="title"><a href="index.html#0">Human Hunter</a></h5>
+                        <h5 class="title"><a href="">Human Hunter</a></h5>
                         <p>Commodo odio ut cras, mauris nihil elit et magna, aliquet arcu nibh pharetra orem
                             bibendum elit mauris odio </p>
-                        <a href="index.html#0" class="custom-button active">play now</a>
+                        <a href="" class="custom-button active">play now</a>
                     </div>
                 </div>
             </div>
@@ -273,12 +273,12 @@
             <div class="col-sm-10 col-md-6 col-lg-4">
                 <div class="gamer-item section-bg-2">
                     <div class="gamer-thumb">
-                        <a href="index.html#0">
+                        <a href="">
                             <img src="assets/images/gamers/gamers01.png" alt="gamers">
                         </a>
                     </div>
                     <div class="gamer-content">
-                        <h5 class="title"><a href="index.html#0">Abu Raihan Rafuj</a></h5>
+                        <h5 class="title"><a href="">Abu Raihan Rafuj</a></h5>
                         <p>New Gamers</p>
                     </div>
                 </div>
@@ -286,12 +286,12 @@
             <div class="col-sm-10 col-md-6 col-lg-4">
                 <div class="gamer-item section-bg-2">
                     <div class="gamer-thumb">
-                        <a href="index.html#0">
+                        <a href="">
                             <img src="assets/images/gamers/gamers02.png" alt="gamers">
                         </a>
                     </div>
                     <div class="gamer-content">
-                        <h5 class="title"><a href="index.html#0">Hera Rahman</a></h5>
+                        <h5 class="title"><a href="">Hera Rahman</a></h5>
                         <p>New Gamers</p>
                     </div>
                 </div>
@@ -299,12 +299,12 @@
             <div class="col-sm-10 col-md-6 col-lg-4">
                 <div class="gamer-item section-bg-2">
                     <div class="gamer-thumb">
-                        <a href="index.html#0">
+                        <a href="">
                             <img src="assets/images/gamers/gamers03.png" alt="gamers">
                         </a>
                     </div>
                     <div class="gamer-content">
-                        <h5 class="title"><a href="index.html#0">Panna Rahman</a></h5>
+                        <h5 class="title"><a href="">Panna Rahman</a></h5>
                         <p>New Gamers</p>
                     </div>
                 </div>
@@ -316,15 +316,17 @@
 
 
 <!-- ========Lends Section Starts Here======== -->
-<section class="about-section  padding-top">
+<section class="about-section padding-top padding-bottom">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-7 col-xl-5">
                 <div class="membership_text">
                     <h2 style="padding-bottom: 30px;">Join Membership</h2>
-                    <p>Dana dari kalian 100% untuk perkembangan Veskai, mulai penambahan menu (fitur/event) baru hingga sawer vtuber kesayangan Rocinante </p>
-                    <a href="https://trakteer.id/veskai" class="banner-content theme custom-button mt-20">Trakteer</a>
-                    <a href="https://paypal.me/mxxpe" class="banner-content theme custom-button mt-20" style="margin-left: 20px; ">Paypal</a>
+                    <p>Dana dari kalian 100% untuk perkembangan Veskai Production, mulai penambahan menu, event, dan lainnya. </p>
+                    <p>Untuk saat ini Veskai Production sedang berfokus pada pelebaran sayap kekomunitas gaming indonesia dengan membuka dan mengelola server game multiplayer. </p>
+                    <p>Tentu saja kita tidak akan terhenti sampai sini saja, kita akan selalu berusaha melebarkan sayap kekomunitas lainnya. </p>
+                    <a href="https://trakteer.id/veskai" class="custom-button mt-20">Trakteer</a>
+                    <a href="https://paypal.me/mxxpe" class="custom-button mt-20" style="margin-left: 20px; ">Paypal</a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-5">
@@ -397,7 +399,7 @@
 
 
 <!-- ========Winner Section Starts Here======== -->
-<section class="winner-section padding-bottom  padding-top bg-biru-veskai">
+<section class="winner-section padding-bottom  padding-top bg-biru-veskai" style="background-image: url('https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif');">
     <div class="container mt-5">
         <div class="section-header">
             <h2 class="title">Top Dominator</h2>
@@ -409,7 +411,7 @@
                         <img src="assets/images/winner/winner01.jpg" alt="winner">
                     </div>
                     <div class="winner-content">
-                        <h6 class="title"><a href="index.html#0">vincentwylcotes</a></h6>
+                        <h6 class="title"><a href="">vincentwylcotes</a></h6>
                         <span class="info">VIP &#128142; 7</span>
                         <span class="bet-id">VIP War Season 7 Winner</span>
                     </div>
@@ -674,42 +676,42 @@
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="post-item">
                     <div class="post-thumb">
-                        <a href="index.html#0"><img src="assets/images/blog/blog01.jpg" alt="blog"></a>
+                        <a href=""><img src="assets/images/blog/blog01.jpg" alt="blog"></a>
                     </div>
                     <div class="post-content">
                         <div class="meta-post">
-                            <a href="index.html#0">25 December, 2020</a>
-                            <a href="index.html#0">03 comments</a>
+                            <a href="">25 December, 2020</a>
+                            <a href="">03 comments</a>
                         </div>
-                        <h6 class="title"><a href="index.html#0">porta felis ac blandit ttique nec fermentum habi</a></h6>
+                        <h6 class="title"><a href="">porta felis ac blandit ttique nec fermentum habi</a></h6>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="post-item">
                     <div class="post-thumb">
-                        <a href="index.html#0"><img src="assets/images/blog/blog02.jpg" alt="blog"></a>
+                        <a href=""><img src="assets/images/blog/blog02.jpg" alt="blog"></a>
                     </div>
                     <div class="post-content">
                         <div class="meta-post">
-                            <a href="index.html#0">25 December, 2020</a>
-                            <a href="index.html#0">03 comments</a>
+                            <a href="">25 December, 2020</a>
+                            <a href="">03 comments</a>
                         </div>
-                        <h6 class="title"><a href="index.html#0">Cupiditate aliquam facilisis fermen tumcoer</a></h6>
+                        <h6 class="title"><a href="">Cupiditate aliquam facilisis fermen tumcoer</a></h6>
                     </div>
                 </div>
             </div>
             <div class="col-sm-10 col-md-6 col-xl-4">
                 <div class="post-item">
                     <div class="post-thumb">
-                        <a href="index.html#0"><img src="assets/images/blog/blog03.jpg" alt="blog"></a>
+                        <a href=""><img src="assets/images/blog/blog03.jpg" alt="blog"></a>
                     </div>
                     <div class="post-content">
                         <div class="meta-post">
-                            <a href="index.html#0">25 December, 2020</a>
-                            <a href="index.html#0">03 comments</a>
+                            <a href="">25 December, 2020</a>
+                            <a href="">03 comments</a>
                         </div>
-                        <h6 class="title"><a href="index.html#0">porta felis ac blandit ttique nec fermentum habi</a></h6>
+                        <h6 class="title"><a href="">porta felis ac blandit ttique nec fermentum habi</a></h6>
                     </div>
                 </div>
             </div>

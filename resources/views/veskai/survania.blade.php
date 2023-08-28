@@ -50,7 +50,7 @@
 
 
     <!-- ========Winner Section Starts Here======== -->
-    <section class="blog-section padding-bottom padding-top" style="background-image: url('https://www.xenioo.com/wp-content/uploads/2020/12/photo-1550745165-9bc0b252726f.jpg');">
+    <section class="blog-section padding-bottom padding-top" style="background-image: url('https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif');">
         <div class="container">
             <div class="section-header">
                 <h2 class="title">Guide</h2>
