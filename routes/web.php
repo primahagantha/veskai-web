@@ -57,3 +57,4 @@ Route::get('/register', [DashboardController::class, 'register']);
 
 Route::get('/login', [DashboardController::class, 'login']);
 
+Route::get('/terms', [DashboardController::class, 'terms']);

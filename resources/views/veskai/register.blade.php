@@ -29,7 +29,7 @@
                             <button class="custom-button" type="submit">create account</button>
                         </div>
                         <div class="account-check-group mb-0">
-                            Already have an account?<a href="{{url("/register")}}">Log in</a>
+                            Already have an account?<a href="{{url("/login")}}">Log in</a>
                         </div>
                     </form>
                 </div>

@@ -119,7 +119,7 @@
                                 <a href="{{url("/faq")}}">Faqs</a>
                             </li>
                             <li>
-                                <a href="{{url("/faq")}}">Terms & Service</a>
+                                <a href="{{url("/terms")}}">Terms & Service</a>
                             </li>
 
                         </ul>
