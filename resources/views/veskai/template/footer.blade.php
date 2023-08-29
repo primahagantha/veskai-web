@@ -45,10 +45,7 @@
                         <h6 class="title">Partners</h6>
                         <ul>
                             <li>
-                                <a href="https://wa.me/6287810151440">Changer WhatsApp Bot</a>
-                            </li>
-                            <li>
-                                <a href="https://s.id/16PNE">Changer Discord Bot</a>
+                                <a href="{{url("/changer")}}"">Changer Bot</a>
                             </li>
                         </ul>
                     </div>

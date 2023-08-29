@@ -8,7 +8,7 @@
             <p>Tempat kalian dimana bisa mencari teman baru.
                 <br>mulai dari sekedar teman mabar hingga teman curhat.</br>
             </p>
-            <a href="sign-in.html" class="custom-button theme">Login</a>
+            <a href="{{url("/login")}}" class="custom-button theme">Login</a>
         </div>
     </div>
 </section>

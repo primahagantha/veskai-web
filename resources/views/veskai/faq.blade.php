@@ -78,7 +78,7 @@
     <section class="faq-section padding-top padding-bottom">
         <div class="container">
             <div class="section-header">
-                <h2 class="title">Quick Answer For You</h2>
+                <h3 class="title">Jawaban cepat untuk pertanyaan kamu!</h3>
             </div>
             <div class="theme-style">
                 <ul class="nav nav-tabs faq-tab-menu justify-content-center">
@@ -99,20 +99,11 @@
                                 <div class="faq-wrapper">
                                     <div class="faq-item">
                                         <div class="faq-title">
-                                            <h6 class="title"> Apa itu Veskai?</h6>
+                                            <h6 class="title"> Apa itu Veskai</h6>
                                             <span class="right-icon"></span>
                                         </div>
                                         <div class="faq-content">
                                             <p>Veskai adalah Komunitas Indonesia yang terbangun berawal dengan Discord Server dan terus berusaha memperluas jangkauannya dengan membuat berbagai hal</p>
-                                        </div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <div class="faq-title">
-                                            <h6 class="title">untuk apa Membership pada veskai?</h6>
-                                            <span class="right-icon"></span>
-                                        </div>
-                                        <div class="faq-content">
-                                            <p>Membership Veskai diadakan untuk pendanaan Veskai Production agar tetap berjalan dan terus berkembang, setiap tipe membership memiliki keuntungannya sendiri</p>
                                         </div>
                                     </div>
                                     <div class="faq-item">
@@ -126,7 +117,7 @@
                                     </div>
                                     <div class="faq-item">
                                         <div class="faq-title">
-                                            <h6 class="title">Kenapa Veskai?</h6>
+                                            <h6 class="title">Kenapa Veskai</h6>
                                             <span class="right-icon"></span>
                                         </div>
                                         <div class="faq-content">
@@ -168,20 +159,6 @@
                                     <div class="faq-item">
                                         <div class="faq-title">
                                             <h6 class="title">what is the benifit of the game?</h6>
-                                            <span class="right-icon"></span>
-                                        </div>
-                                        <div class="faq-content">
-                                            <p>Mauris sed duis aliquam laudantium. Suscipit nunc, eros error mi gravida,
-                                                et
-                                                sit,
-                                                blandit pretium. Cras ad, morbi iaculis amet accumsan nullam nulla in,
-                                                sit
-                                                euismod porta ante nulla, tellus </p>
-                                        </div>
-                                    </div>
-                                    <div class="faq-item">
-                                        <div class="faq-title">
-                                            <h6 class="title">Why we are the best?</h6>
                                             <span class="right-icon"></span>
                                         </div>
                                         <div class="faq-content">

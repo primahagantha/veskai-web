@@ -91,10 +91,7 @@
                                 <a href="">Partners</a>
                                 <ul class="submenu">
                                     <li>
-                                        <a href="https://s.id/16PNE">Changer Discord Bot</a>
-                                    </li>
-                                    <li>
-                                        <a href="https://wa.me/6287810151440">Changer WhatsApp Bot</a>
+                                        <a href="{{url("/changer")}}"">Changer Bot</a>
                                     </li>
                                 </ul>
                             </li>
