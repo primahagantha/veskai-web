@@ -47,3 +47,4 @@ Route::get('/terms', [DashboardController::class, 'terms']);
 
 Route::get('/changer', [DashboardController::class, 'changer']);
 
+Route::get('/account', [DashboardController::class, 'account']);

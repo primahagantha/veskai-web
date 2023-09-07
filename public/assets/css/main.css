@@ -6353,3 +6353,39 @@ form .custom-button {
     0%, 100% { opacity: 0; transform: scale(1); }
     10%, 90% { opacity: 1; transform: scale(1.1); }
 }
+
+/* account after login */
+.border-account {
+    background-color: #070340;
+    text-align: left;
+}
+
+.fill-account {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #020024;
+    color: white;
+    text-align: left;
+    
+
+}
+
+@media (max-width: 991px) { /* Gunakan media query untuk tampilan mobile */
+    .fill-account {
+        margin: 10%;
+    }
+}
+
+.nav-profile{
+    width: 80%;
+    padding: 50px;
+}
+
+@media (max-width: 991px) { /* Gunakan media query untuk tampilan mobile */
+    .nav-profile {
+        margin: 10%;
+    }
+}

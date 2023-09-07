@@ -15,10 +15,10 @@
                                 <a href="https://twitter.com/VeskaiID"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://instagram.com/veskai.id"><i class="fab fa-instagram"></i></a>
                             </li>
                             <li>
-                                <a href=""><i class="fab fa-instagram"></i></a>
+                                <a href="https://youtube.com/@veskai"><i class="fa-brands fa-youtube"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -26,13 +26,13 @@
                         <h6 class="title">Useful Links</h6>
                         <ul>
                             <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="{{url("/contact")}}">Contact</a>
                             </li>
                             <li>
-                                <a href="terms.html">Terms & Services</a>
+                                <a href="{{url("/terms")}}">Terms & Services</a>
                             </li>
                             <li>
-                                <a href="faqs.html">Faqs</a>
+                                <a href="{{url("/faqs")}}">Faqs</a>
                             </li>
                         </ul>
                     </div>
@@ -45,7 +45,7 @@
                         <h6 class="title">Partners</h6>
                         <ul>
                             <li>
-                                <a href="{{url("/changer")}}"">Changer Bot</a>
+                                <a href="{{url("/changer")}}">Changer Bot</a>
                             </li>
                         </ul>
                     </div>

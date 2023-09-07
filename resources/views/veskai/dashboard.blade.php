@@ -42,8 +42,8 @@
                                     <img src="assets/images/feature/02.png" alt="feature">
                                 </div>
                                 <div class="feature-content banner-content">
-                                    <h4 class="title">Aurora World</h4>
-                                    <p>GTA San Andreas Multiplayer (SA-MP) Server with Freeroam Game Mode available soon</p>
+                                    <h4 class="title">New World</h4>
+                                    <p>GTA San Andreas Multiplayer Server with Semi-Freeroam Game Mode available soon</p>
                                     <a href="" class="custom-button theme"><del>Play</del></a>
                                 </div>
                             </div>

@@ -55,4 +55,8 @@ class DashboardController extends Controller
         $data['tittle'] = "Changer";
         return view("veskai.changer",$data);
     }
+    public function account(){
+        $data['tittle'] = "Account";
+        return view("veskai.account",$data);
+    }
 }
