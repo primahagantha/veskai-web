@@ -32,10 +32,14 @@
                                 <div class="copy-container">
                                     <h5 class="mb-3">Server Address</h5>
                                     <div class="copy-text" id="text-to-copy">
+                                        mc.veskai.com
+                                    </div>
+                                    <h5 class="mb-3">Server Port</h5>
+                                    <div class="copy-text" id="text-to-copy">
                                         Coming Soon
                                     </div>
                                     <h5 class="mb-3 mt-4">Support Version</h5>
-                                        <p>Minecraft Bedrock / JAVA / PE - Latest Version</p>
+                                        <p>Minecraft Bedrock / JAVA / Mobile - Latest Version</p>
                                     <h5>Survania Community</h5>
                                 </div>
                                 <a href="https://discord.gg/4qbmhC3deZ" class="custom-button mb-5">Join</a>
