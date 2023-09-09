@@ -59,4 +59,9 @@ class DashboardController extends Controller
         $data['tittle'] = "Profile";
         return view("veskai.profile",$data);
     }
+    public function forgotpassword(){
+        $data['tittle'] = "Forgot Password";
+        return view("veskai.forgotpassword",$data);
+    }
+
 }

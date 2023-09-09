@@ -50,3 +50,5 @@ Route::get('/terms', [DashboardController::class, 'terms']);
 Route::get('/changer', [DashboardController::class, 'changer']);
 
 Route::get('/profile', [DashboardController::class, 'profile']);
+
+Route::get('/forgotpassword', [DashboardController::class, 'forgotpassword']);

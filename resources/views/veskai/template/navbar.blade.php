@@ -134,7 +134,7 @@
                                     <a href="{{url("/login")}}">Login</a>
                                 </li>
                                 <li>
-                                    <a href=""><del>Forgot Password</del> Soon</a>
+                                    <a href="{{url("/forgotpassword")}}">Forgot Password</a>
                                 </li>
                             </ul>
                     </li>
