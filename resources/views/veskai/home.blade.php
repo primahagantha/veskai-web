@@ -5,8 +5,8 @@
     <div class="container">
         <div class="banner-content">
             <h1 class="title">Welcome to Veskai</h1>
-            <p>Tempat kalian dimana bisa mencari teman baru.
-                <br>mulai dari sekedar teman mabar hingga teman curhat.</br>
+            <p>Tempat kalian bisa mencari teman baru
+                <br>Temukan teman baru kamu di Veskai Community</br>
             </p>
             <a href="{{url("/login")}}" class="custom-button theme">Login</a>
         </div>
@@ -91,9 +91,9 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-header text-justify mb-0">
-                    <h2 class="title mt-lg-0">Veskai Community</h2>
+                    <h2 class="title mt-lg-0">Veskai Discord Server</h2>
                     <p>Kami adalah Komunitas yang mengangkat banyak hal ke-internet, yang berpusat pada Discord Server di Indonesia.</p>
-                        <P>Server Indonesia yang membahas berbagai macam topic, mulai dari anime, game, film, art, otomotive, hardware, dan lain sebagainya, intinya kita nongkrong bareng.
+                        <P>Server Indonesia yang membahas berbagai macam topic, mulai dari anime, game, film, art, otomotive, hardware, dan lain sebagainya. tempat kita bertukar cerita, pengalaman, dan pengetahuan.</p>
                         <p>Selain itu kami saat ini sedang memperlebar sayap pada industri gaming community, khususnya menyediakan Game Server yang bisa dimainkan bersama oleh user kami.</p>
                         <p>Di server ini juga memiliki bot dan channel yang tertata rapi dengan fitur yang jarang ada di server lain.</p>
                         <p>Ajak teman kamu untuk meramaikan server! kita sangat welcome ke user discord lama maupun baru</p>
@@ -321,7 +321,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-7 col-xl-5">
                 <div class="membership_text">
-                    <h2 style="padding-bottom: 30px;">Join Membership</h2>
+                    <h2 style="padding-bottom: 30px;">Veskai Membership</h2>
                     <p>Dana dari kalian 100% untuk perkembangan Veskai Production, mulai penambahan menu, event, dan lainnya. </p>
                     <p>Untuk saat ini Veskai Production sedang berfokus pada pelebaran sayap kekomunitas gaming indonesia dengan membuka dan mengelola server game multiplayer. </p>
                     <p>Tentu saja kita tidak akan terhenti sampai sini saja, kita akan selalu berusaha melebarkan sayap kekomunitas lainnya. </p>

@@ -54,7 +54,7 @@
                         <ul>
                             <li>
                                 <span>Email</span>
-                                <a href="Mailto:admin@veskai.com"><span class="__cf_email__" data-cfemail="8ce8e9e1e3ccebe1ede5e0a2efe3e1">admin@veskai.com</span></a>
+                                <a href="Mailto:admin@veskai.com">admin@veskai.com</a>
                             </li>
                         <!--<li>
                                 <span>Phone</span>
