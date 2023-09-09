@@ -1,6 +1,6 @@
 @extends('veskai.template.main')
 @section('content')
-    
+
 
 <!-- =======Account Section Starts Here======== -->
     <section class="account-section padding-bottom padding-top bg-overlay" style="background-image: url('https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif');">
@@ -8,6 +8,7 @@
             <div class="account-wrapper">
                 <div class="account-area">
                     <h2 class="title">Register Veskai</h2>
+
                     <form class="account-form">
                         <div class="account-form-group">
                             <input type="text" placeholder="Username" name="name" required>
@@ -38,7 +39,7 @@
     </section>
     <!-- =======Account Section Ends Here======== -->
 
-    
+
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/modernizr-3.6.0.min.js"></script>
     <script src="assets/js/plugins.js"></script>
@@ -71,6 +72,6 @@
             galleryThumbs.controller.control = galleryTop;
         })
     </script>
-    
-    
+
+
 @endsection

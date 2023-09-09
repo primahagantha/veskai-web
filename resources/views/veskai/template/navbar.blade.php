@@ -28,10 +28,10 @@
                         <a href="">Games</a>
                         <ul class="submenu">
                             <li>
-                                <a href="{{url("/survania")}}">Survania | Minecraft</a>
+                                <a href="{{url("/survania")}}">Survania Minecraft</a>
                             </li>
                             <li>
-                                <a href=""><del>Aurora World | SA-MP</del></a>
+                                <a href=""><del>New World SA-MP</del> soon</a>
                             </li>
                         </ul>
                     </li>
@@ -53,7 +53,7 @@
                                 <a href="https://trakteer.id/survania">VIP Survania</a>
                             </li>
                             <li>
-                                <a href=""><del>VIP Aurora World</del></a>
+                                <a href=""><del>VIP New World</del> soon</a>
                             </li>
                         </ul>
                     </li>
@@ -77,21 +77,24 @@
                                         <a href="https://youtube.com/@veskai">Youtube</a>
                                     </li>
                                     <li>
-                                        <a href="https://twitter.com/VeskaiID">Twitter</a>
+                                        <a href="https://twitter.com/VeskaiID">X</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://instagram.com/veskai.id">Youtube</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href=""><del>Media</del> Coming Soon</a>
+                                <a href=""><del>Media</del> Soon</a>
                             </li>
                             <li>
-                                <a href=""><del>Shop</del> Coming Soon</a>
+                                <a href=""><del>Shop</del> Soon</a>
                             </li>
                             <li>
                                 <a href="">Partners</a>
                                 <ul class="submenu">
                                     <li>
-                                        <a href="{{url("/changer")}}"">Changer Bot</a>
+                                        <a href="{{url("/changer")}}">Changer Bot</a>
                                     </li>
                                 </ul>
                             </li>
@@ -105,7 +108,7 @@
                                         <a href="{{url("/unban-survania")}}">Survania</a>
                                     </li>
                                     <li>
-                                        <a href=""><del>Aurora World</del></a>
+                                        <a href=""><del>New World</del> soon</a>
                                     </li>
                                 </ul>
                             </li>
@@ -145,7 +148,7 @@
                                     <a href="https://discord.gg/4qbmhC3deZ">Survania</a>
                                 </li>
                                 <li>
-                                    <a href="https://discord.gg/heee7em7dw">Aurora World</a>
+                                    <a href="https://discord.gg/heee7em7dw">New World</a>
                                 </li>
                             </ul>
                     </li>
