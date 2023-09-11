@@ -24,6 +24,9 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+Route::get('/discord', function () {
+    return redirect()->away('https://discord.gg/XYqyZpg');
+});
 
 Route::get('/user', [DashboardController::class, 'index']);
 
