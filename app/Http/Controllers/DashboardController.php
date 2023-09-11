@@ -11,9 +11,9 @@ class DashboardController extends Controller
         echo "ini dashboard";
     }
 
-    public function dashboard(){
-        $data['tittle'] = "Dashboard";
-        return view("veskai.dashboard",$data);
+    public function home(){
+        $data['tittle'] = "Home";
+        return view("veskai.home",$data);
     }
 
     public function faq(){
@@ -55,8 +55,13 @@ class DashboardController extends Controller
         $data['tittle'] = "Changer";
         return view("veskai.changer",$data);
     }
-    public function account(){
-        $data['tittle'] = "Account";
-        return view("veskai.account",$data);
+    public function profile(){
+        $data['tittle'] = "Profile";
+        return view("veskai.profile",$data);
     }
+    public function forgotpassword(){
+        $data['tittle'] = "Forgot Password";
+        return view("veskai.forgotpassword",$data);
+    }
+
 }

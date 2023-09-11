@@ -9,37 +9,37 @@
         <h6 class="wellcome">welcome to<span>Veskai</span></h6>
     </div>
 </div>
-<a href="" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
+<a href="#" class="scrollToTop"><i class="fas fa-angle-up"></i></a>
 <div class="overlay"></div>
 <!-- ========Header Section Starts Here======== -->
 <header class="header-one">
         <div class="container">
             <div class="header-wrapper-2">
                 <div class="sticky-logo">
-                    <a href="">
+                    <a href="#">
                         <img src="assets/images/logo/vekai-logo.png" alt="logo">
                     </a>
                 </div>
                 <ul class="menu">
                     <li>
-                        <a href="{{url("/dashboard")}}">Home</a>
+                        <a href="{{url("/home")}}">Home</a>
                     </li>
                     <li>
-                        <a href="">Games</a>
+                        <a href="#">Games</a>
                         <ul class="submenu">
                             <li>
                                 <a href="{{url("/survania")}}">Survania Minecraft</a>
                             </li>
                             <li>
-                                <a href=""><del>New World SA-MP</del> soon</a>
+                                <a href="#"><del>New World SA-MP</del> soon</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="">Membership</a>
+                        <a href="#">Membership</a>
                         <ul class="submenu">
                             <li>
-                                <a href="">VIP Veskai Discord</a>
+                                <a href="#">VIP Veskai Discord</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="https://trakteer.id/veskai">Trakteer</a>
@@ -53,22 +53,22 @@
                                 <a href="https://trakteer.id/survania">VIP Survania</a>
                             </li>
                             <li>
-                                <a href=""><del>VIP New World</del> soon</a>
+                                <a href="#"><del>VIP New World</del> soon</a>
                             </li>
                         </ul>
                     </li>
                     <li class="d-none d-lg-block center-logo">
                         <div class="logo">
-                            <a href="">
+                            <a href="#">
                                 <img src="assets/images/logo/main-logo.png" alt="logo">
                             </a>
                         </div>
                     </li>
                     <li>
-                        <a href="">Pages</a>
+                        <a href="#">Pages</a>
                         <ul class="submenu">
                             <li>
-                                <a href="">Forum</a>
+                                <a href="#">Forum</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="https://discord.gg/XYqyZpg">Discord</a>
@@ -85,13 +85,13 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href=""><del>Media</del> Soon</a>
+                                <a href="#"><del>Media</del> Soon</a>
                             </li>
                             <li>
-                                <a href=""><del>Shop</del> Soon</a>
+                                <a href="#"><del>Shop</del> Soon</a>
                             </li>
                             <li>
-                                <a href="">Partners</a>
+                                <a href="#">Partners</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="{{url("/changer")}}">Changer Bot</a>
@@ -99,7 +99,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="">Unban Appeal</a>
+                                <a href="#">Unban Appeal</a>
                                 <ul class="submenu">
                                     <li>
                                         <a href="{{url("/unban-discord")}}">Discord</a>
@@ -108,7 +108,7 @@
                                         <a href="{{url("/unban-survania")}}">Survania</a>
                                     </li>
                                     <li>
-                                        <a href=""><del>New World</del> soon</a>
+                                        <a href="#"><del>New World</del> soon</a>
                                     </li>
                                 </ul>
                             </li>
@@ -125,7 +125,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="">Account</a>
+                        <a href="#">Account</a>
                             <ul class="submenu">
                                 <li>
                                     <a href="{{url("/register")}}">Register</a>
@@ -134,12 +134,12 @@
                                     <a href="{{url("/login")}}">Login</a>
                                 </li>
                                 <li>
-                                    <a href=""><del>Forgot Password</del> Soon</a>
+                                    <a href="{{url("/forgotpassword")}}">Forgot Password</a>
                                 </li>
                             </ul>
                     </li>
                     <li>
-                        <a href="">Community</a>
+                        <a href="#">Community</a>
                             <ul class="submenu">
                                 <li>
                                     <a href="https://discord.gg/XYqyZpg">Veskai</a>

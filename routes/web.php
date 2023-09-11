@@ -24,10 +24,15 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+Route::get('/discord', function () {
+    return redirect()->away('https://discord.gg/XYqyZpg');
+});
 
 Route::get('/user', [DashboardController::class, 'index']);
 
-Route::get('/', [DashboardController::class, 'dashboard']);
+Route::get('/', [DashboardController::class, 'home']);
+
+Route::get('/home', [DashboardController::class, 'home']);
 
 Route::get('/faq', [DashboardController::class, 'faq']);
 
@@ -47,4 +52,6 @@ Route::get('/terms', [DashboardController::class, 'terms']);
 
 Route::get('/changer', [DashboardController::class, 'changer']);
 
-Route::get('/account', [DashboardController::class, 'account']);
+Route::get('/profile', [DashboardController::class, 'profile']);
+
+Route::get('/forgotpassword', [DashboardController::class, 'forgotpassword']);
