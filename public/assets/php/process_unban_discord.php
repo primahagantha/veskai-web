@@ -3,8 +3,8 @@ if (isset($_POST['submit'])) {
     $username = $_POST['username'];
     $reason = $_POST['reason'];
 
-    $from = 'unban-request@example.com'; // Ganti dengan alamat email pengirim
-    $to = 'admin@example.com'; // Ganti dengan alamat email admin atau penerima permintaan unban
+    $from = 'discord-unban@veskai.com'; // Ganti dengan alamat email pengirim
+    $to = 'admin@veskai.com'; // Ganti dengan alamat email admin atau penerima permintaan unban
     $subject = 'Unban Request';
     $message = "Username: $username\nReason: $reason";
 
