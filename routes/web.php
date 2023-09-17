@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ActionController;
 use App\Http\Controllers\DashboardController;
 use Illuminate\Support\Facades\Route;
 
@@ -55,3 +56,7 @@ Route::get('/changer', [DashboardController::class, 'changer']);
 Route::get('/profile', [DashboardController::class, 'profile']);
 
 Route::get('/forgotpassword', [DashboardController::class, 'forgotpassword']);
+
+Route::post('/submit-unban-discord', [ActionController::class, 'unbandiscord'])->name('submit.unban.discord');
+
+Route::post('/submit-unban-survania', [ActionController::class, 'unbansurvania'])->name('submit.unban.survania');
