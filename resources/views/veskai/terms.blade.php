@@ -3,13 +3,13 @@
 <section class="hero-section bg_img" data-background="./assets/images/banner/hero-bg.png">
         <div class="container">
             <div class="hero-content">
-                <h1 class="title">Terms & Services</h1>
+                <h1 class="title">Terms of Services</h1>
                 <ul class="breadcrumb">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="{{url("/home")}}">Home</a>
                     </li>
                     <li>
-                        Terms & Services
+                        Terms of Services
                     </li>
                 </ul>
             </div>
@@ -28,7 +28,7 @@
                             <ul class="category-list">
                                 <li class="category-item open">
                                     <a href="#" class="category-title">
-                                        <span>preferences</span><span class="amount">4</span>
+                                        <span>preferences</span><span class="amount">5</span>
                                     </a>
                                     <ul class="category-content" style="display: block;">
                                         <li>
@@ -146,7 +146,7 @@
                         </div>
                         <div class="item" id="termspersonaldatainformation">
                             <h6 class="title">Personal Data Information</h6>
-                            <p>Kami pihak Veskai tidak akan membocorkan Personal data information kepihak yang tidak bertanggung jawab, kecuali jika user yang bersangkutan menyalahi Terms & Service kami </p>
+                            <p>Kami pihak Veskai tidak akan membocorkan Personal data information (email) kepada pihak yang tidak bertanggung jawab</p>
                         </div>
                         <div class="item" id="termsreferralfeeandrefund">
                             <h6 class="title">Referral Fee And Refund</h6>

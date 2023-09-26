@@ -119,22 +119,22 @@
                                 <a href="{{url("/faq")}}">Faqs</a>
                             </li>
                             <li>
-                                <a href="{{url("/terms")}}">Terms & Service</a>
+                                <a href="{{url("/terms")}}">Terms of Service</a>
                             </li>
 
                         </ul>
                     </li>
                     <li>
-                        <a href="#">Account</a>
+                        <a href="#"><del>Account</del></a>
                             <ul class="submenu">
                                 <li>
-                                    <a href="{{url("/register")}}">Register</a>
+                                    <a href="{{url("/register")}}"><del>Register</del> Soon</a>
                                 </li>
                                 <li>
-                                    <a href="{{url("/login")}}">Login</a>
+                                    <a href="{{url("/login")}}"><del>Login</del> Soon</a>
                                 </li>
                                 <li>
-                                    <a href="{{url("/forgotpassword")}}">Forgot Password</a>
+                                    <a href="{{url("/forgotpassword")}}"><del>Forgot Password</del> Soon</a>
                                 </li>
                             </ul>
                     </li>
@@ -142,13 +142,16 @@
                         <a href="#">Community</a>
                             <ul class="submenu">
                                 <li>
-                                    <a href="https://discord.gg/XYqyZpg">Veskai</a>
+                                    <a href="https://discord.gg/XYqyZpg">Veskai Server</a>
                                 </li>
                                 <li>
-                                    <a href="https://discord.gg/4qbmhC3deZ">Survania</a>
+                                    <a href="https://discord.gg/4qbmhC3deZ">Survania Server</a>
                                 </li>
                                 <li>
-                                    <a href="https://discord.gg/heee7em7dw">New World</a>
+                                    <a href="https://discord.gg/heee7em7dw">New World Server</a>
+                                </li>
+                                <li>
+                                    <a href="https://chat.whatsapp.com/KiypHNGPQqe9ZEuXROGbF8">Changer Group</a>
                                 </li>
                             </ul>
                     </li>

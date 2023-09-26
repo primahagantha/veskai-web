@@ -30,7 +30,7 @@
                                 <div class="feature-content banner-content">
                                     <h4 class="title">Survania</h4>
                                     <p>a Minecraft Multiplayer Server with Survival Gamemode that you can play in it for FREE</p>
-                                    <a href="survania.html" class="custom-button theme">Play</a>
+                                    <a href="{{url("/survania")}}" class="custom-button theme">Play</a>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                                 <div class="feature-content banner-content">
                                     <h4 class="title">New World</h4>
                                     <p>GTA San Andreas Multiplayer Server with Semi-Freeroam Game Mode available soon</p>
-                                    <a href="" class="custom-button theme"><del>Play</del></a>
+                                    <a href="#" class="custom-button theme"><del>Play</del></a>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@
                                 <div class="feature-content banner-content">
                                     <h4 class="title">Coming Soon</h4>
                                     <p>GTA V Server (FIVE M)? haha idk. support us! will be available if you guys keep supporting us</p>
-                                    <a href="" class="custom-button theme"><del>Play</del></a>
+                                    <a href="#" class="custom-button theme"><del>Play</del></a>
                                 </div>
                             </div>
                         </div>
@@ -402,16 +402,16 @@
 <section class="winner-section padding-bottom  padding-top bg-biru-veskai" style="background-image: url('https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif');">
     <div class="container mt-5">
         <div class="section-header">
-            <h2 class="title">Top Dominator</h2>
+            <h2 class="title">Server Dominator</h2>
         </div>
         <div class="row justify-content-center mb-30-none">
             <div class="col-sm-10 col-md-6 col-lg-4">
                 <div class="winner-item">
                     <div class="winner-thumb">
-                        <img src="assets/images/winner/winner01.jpg" alt="winner">
+                        <img src="https://cdn.discordapp.com/avatars/1003560354145632257/2639fe897b6e39d020c3ce6fd3e08c43.png" alt="winner">
                     </div>
                     <div class="winner-content">
-                        <h6 class="title"><a href="">vincentwylcotes</a></h6>
+                        <h6 class="title">vincentwylcotes</h6>
                         <span class="info">VIP &#128142; 7</span>
                         <span class="bet-id">VIP War Season 7 Winner</span>
                     </div>
