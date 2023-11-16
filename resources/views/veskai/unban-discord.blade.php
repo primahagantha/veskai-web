@@ -4,7 +4,8 @@
 <!-- ========Game Details Section Starts Here======== -->
 <div class="padding-top padding-bottom" style="background-image: url('https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif');">
     <div class="form-container">
-        <form action="process_unban_discord.php" method="POST" class="unban-form">
+        <form action="{{route('submit.unban.discord')}}" method="POST" class="unban-form">
+            @csrf
             <label for="username" class="form-label">Discord Username/Tag:</label>
             <input type="text" id="username" name="username" class="form-input" required>
             <br>

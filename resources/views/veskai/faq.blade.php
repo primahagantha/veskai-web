@@ -9,10 +9,10 @@
                 <h1 class="title">FAQ</h1>
                 <ul class="breadcrumb">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="{{url("/home")}}">Home</a>
                     </li>
                     <li>
-                        faq
+                        faqs
                     </li>
                 </ul>
             </div>

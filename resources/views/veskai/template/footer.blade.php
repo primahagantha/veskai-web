@@ -6,7 +6,7 @@
                 <div class="left-side">
                     <div class="footer-widget widget-about">
                         <h6 class="title">About Us</h6>
-                        <p>Komunitas Indonesia yang mengangkat banyak hal ke-internet dengan base Discord Server</p>
+                        <p>Komunitas Indonesia yang mengangkat banyak hal ke-internet</p>
                         <ul class="social-icons">
                             <li>
                                 <a href="https://discord.gg/XYqyZpg"><i class="fa-brands fa-discord"></i></a>
@@ -29,7 +29,7 @@
                                 <a href="{{url("/contact")}}">Contact</a>
                             </li>
                             <li>
-                                <a href="{{url("/terms")}}">Terms & Services</a>
+                                <a href="{{url("/terms")}}">Terms of Services</a>
                             </li>
                             <li>
                                 <a href="{{url("/faqs")}}">Faqs</a>
@@ -54,7 +54,7 @@
                         <ul>
                             <li>
                                 <span>Email</span>
-                                <a href="Mailto:admin@veskai.com">admin@veskai.com</a>
+                                <a href="Mailto:staff@veskai.com">staff@veskai.com</a>
                             </li>
                         <!--<li>
                                 <span>Phone</span>
