@@ -1,6 +1,8 @@
 @extends('veskai.template.main')
 @section('content')
 
+<script src="{{ asset('js/script.js') }}"></script>
+
  <!-- ========Hero Section Starts Here======== -->
  <section class="hero-section bg_img" id="slideshow" data-background="https://cdn.discordapp.com/attachments/1029591487995985941/1143463648585588886/1175865.jpg">
     <div class="container">
@@ -29,7 +31,8 @@
                             <h2 class="title">get in touch</h2>
                             <p>kirim email kepada kami jika ada keperluan, kritik, saran, dan atau keluh kesah mengenai <b>Veskai Production</b>.</p>
                         </div>
-                        <form class="contact-form" id="contact_form_submit" action="send_mail.php" method="POST">
+                        <form class="contact-form" id="contact_form_submit" action="{{ url('/send-mail') }}" method="POST">
+                            @csrf
                             <div class="comment-form-group w-100">
                                 <input type="text" placeholder="Name" id="name" name="name">
                             </div>

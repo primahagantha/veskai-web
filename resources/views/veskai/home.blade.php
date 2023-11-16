@@ -5,10 +5,10 @@
     <div class="container">
         <div class="banner-content">
             <h1 class="title">Welcome to Veskai</h1>
-            <p>Tempat kalian bisa mencari teman baru
-                <br>Temukan teman baru kamu di Veskai Community</br>
+            <p>Tempat kalian mencari teman baru
+                <br>Temukan teman kamu di Veskai Community</br>
             </p>
-            <a href="{{url("/login")}}" class="custom-button theme">Login</a>
+            <a href="https:discord.gg/XYqyZpg" class="custom-button theme">Join</a>
         </div>
     </div>
 </section>
@@ -42,9 +42,9 @@
                                     <img src="assets/images/feature/02.png" alt="feature">
                                 </div>
                                 <div class="feature-content banner-content">
-                                    <h4 class="title">New World</h4>
-                                    <p>GTA San Andreas Multiplayer Server with Semi-Freeroam Game Mode available soon</p>
-                                    <a href="#" class="custom-button theme"><del>Play</del></a>
+                                    <h4 class="title">Firestrike Alpha</h4>
+                                    <p>an Online FPS Web Games that currently under constraction by Veskai Production</p>
+                                    <a href="#" class="custom-button theme">Soon</a>
                                 </div>
                             </div>
                         </div>
@@ -57,7 +57,7 @@
                                 </div>
                                 <div class="feature-content banner-content">
                                     <h4 class="title">Coming Soon</h4>
-                                    <p>GTA V Server (FIVE M)? haha idk. support us! will be available if you guys keep supporting us</p>
+                                    <p>Online RPG Game? haha idk. support us! will be available if you guys keep supporting us</p>
                                     <a href="#" class="custom-button theme"><del>Play</del></a>
                                 </div>
                             </div>
@@ -408,7 +408,7 @@
             <div class="col-sm-10 col-md-6 col-lg-4">
                 <div class="winner-item">
                     <div class="winner-thumb">
-                        <img src="https://cdn.discordapp.com/avatars/1003560354145632257/2639fe897b6e39d020c3ce6fd3e08c43.png" alt="winner">
+                        <img src="https://cdn.discordapp.com/attachments/810658900134723606/1174675994515345468/9ed4372c8eb5250acb31b008b3ffbf6d.png" alt="winner">
                     </div>
                     <div class="winner-content">
                         <h6 class="title">vincentwylcotes</h6>

@@ -3,6 +3,7 @@
 use App\Http\Controllers\ActionController;
 use App\Http\Controllers\DashboardController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ContactController;
 
 /*
 |--------------------------------------------------------------------------
@@ -60,3 +61,5 @@ Route::get('/forgotpassword', [DashboardController::class, 'forgotpassword']);
 Route::post('/submit-unban-discord', [ActionController::class, 'unbandiscord'])->name('submit.unban.discord');
 
 Route::post('/submit-unban-survania', [ActionController::class, 'unbansurvania'])->name('submit.unban.survania');
+
+Route::post('/send-mail', [ContactController::class, 'sendMail']);

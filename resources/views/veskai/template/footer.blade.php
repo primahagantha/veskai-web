@@ -54,7 +54,7 @@
                         <ul>
                             <li>
                                 <span>Email</span>
-                                <a href="Mailto:admin@veskai.com">admin@veskai.com</a>
+                                <a href="Mailto:staff@veskai.com">staff@veskai.com</a>
                             </li>
                         <!--<li>
                                 <span>Phone</span>

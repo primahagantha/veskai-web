@@ -30,10 +30,28 @@
                             <li>
                                 <a href="{{url("/survania")}}">Survania Minecraft</a>
                             </li>
-                            <li>
-                                <a href="#"><del>New World SA-MP</del> soon</a>
-                            </li>
                         </ul>
+                    </li>
+                    <li>
+                        <a href="#">Community</a>
+                            <ul class="submenu">
+                                <li>
+                                    <a href="https://discord.gg/XYqyZpg">Veskai Server</a>
+                                </li>
+                                <li>
+                                    <a href="https://discord.gg/4qbmhC3deZ">Survania Server</a>
+                                </li>
+                                <li>
+                                    <a href="https://chat.whatsapp.com/KiypHNGPQqe9ZEuXROGbF8">Changer Group</a>
+                                </li>
+                            </ul>
+                    </li>
+                    <li class="d-none d-lg-block center-logo">
+                        <div class="logo">
+                            <a href="#">
+                                <img src="assets/images/logo/main-logo.png" alt="logo">
+                            </a>
+                        </div>
                     </li>
                     <li>
                         <a href="#">Membership</a>
@@ -52,17 +70,18 @@
                             <li>
                                 <a href="https://trakteer.id/survania">VIP Survania</a>
                             </li>
-                            <li>
-                                <a href="#"><del>VIP New World</del> soon</a>
-                            </li>
                         </ul>
-                    </li>
-                    <li class="d-none d-lg-block center-logo">
-                        <div class="logo">
-                            <a href="#">
-                                <img src="assets/images/logo/main-logo.png" alt="logo">
-                            </a>
-                        </div>
+                    </li>                    
+                    <li>
+                        <a href="#">Links</a>
+                            <ul class="submenu">
+                                <li>
+                                    <a href="{{url("/changer")}}">Changer - Bot</a>
+                                </li>
+                                <li>
+                                    <a href="https://discord.gg/9TT7v2Ha83">VeStore - Digital Store</a>
+                                </li>
+                            </ul>
                     </li>
                     <li>
                         <a href="#">Pages</a>
@@ -88,13 +107,10 @@
                                 <a href="#"><del>Media</del> Soon</a>
                             </li>
                             <li>
-                                <a href="#"><del>Shop</del> Soon</a>
-                            </li>
-                            <li>
-                                <a href="#">Partners</a>
+                                <a href="#">Shop</a>
                                 <ul class="submenu">
                                     <li>
-                                        <a href="{{url("/changer")}}">Changer Bot</a>
+                                        <a href="https://discord.gg/9TT7v2Ha83">Vestore - Digital Store</a>
                                     </li>
                                 </ul>
                             </li>
@@ -107,9 +123,6 @@
                                     <li>
                                         <a href="{{url("/unban-survania")}}">Survania</a>
                                     </li>
-                                    <li>
-                                        <a href="#"><del>New World</del> soon</a>
-                                    </li>
                                 </ul>
                             </li>
                             <li>
@@ -119,41 +132,10 @@
                                 <a href="{{url("/faq")}}">Faqs</a>
                             </li>
                             <li>
-                                <a href="{{url("/terms")}}">Terms of Service</a>
+                                <a href="{{url("/terms")}}">Terms & Service</a>
                             </li>
 
                         </ul>
-                    </li>
-                    <li>
-                        <a href="#"><del>Account</del></a>
-                            <ul class="submenu">
-                                <li>
-                                    <a href="{{url("/register")}}"><del>Register</del> Soon</a>
-                                </li>
-                                <li>
-                                    <a href="{{url("/login")}}"><del>Login</del> Soon</a>
-                                </li>
-                                <li>
-                                    <a href="{{url("/forgotpassword")}}"><del>Forgot Password</del> Soon</a>
-                                </li>
-                            </ul>
-                    </li>
-                    <li>
-                        <a href="#">Community</a>
-                            <ul class="submenu">
-                                <li>
-                                    <a href="https://discord.gg/XYqyZpg">Veskai Server</a>
-                                </li>
-                                <li>
-                                    <a href="https://discord.gg/4qbmhC3deZ">Survania Server</a>
-                                </li>
-                                <li>
-                                    <a href="https://discord.gg/heee7em7dw">New World Server</a>
-                                </li>
-                                <li>
-                                    <a href="https://chat.whatsapp.com/KiypHNGPQqe9ZEuXROGbF8">Changer Group</a>
-                                </li>
-                            </ul>
                     </li>
                 </ul>
                 <div class="header-bar">
