@@ -1,9 +1,9 @@
-n:
+name: 🚀 Deploy using FTP
+
+on:
   push:
     branches:
       - master
-
-name: 🚀 Deploy using FTP
 
 jobs:
   web-deploy:
